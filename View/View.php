@@ -29,10 +29,10 @@
 						</div>
 						<div class="col-lg-4 col-sm-4 col-5">
 							<ul class="social-media">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+								<li><a href="https://www.facebook.com/iwex.kg" target="_blank"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://www.instagram.com/iwex.kg/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="https://t.me/iwadmin" target="_blank"><i  class="fa fa-telegram "></i></a></li>
+								<li><a href="https://www.youtube.com/channel/UCOhw2YR7jV4HmdRM50CnxJQ" target="_blank"><i class="fa fa-youtube" ></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -317,7 +317,7 @@
 			
 
 
-			<div id="portfolio" class="our-portfolio section">
+			<div id="portfolio" class="our-portfolio section" >
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-5">
@@ -329,108 +329,193 @@
 						</div>
 					</div>
 				</div>
-				<div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+				<div class="container-fluid-timeline wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s" >
+
+					<div class="timeline">
+						<div class="timeline-container timeline-left">
+							<div class="timeline-content">
+								<h2>1) Консультация</h2>
+								<p>Общение с нашим специалистом в офисе.
+									Приходите к нам в офис для обсуждения интересующих вас вопросов и других нюансов</p>
+							</div>
+						</div>
+						<div class="timeline-container timeline-right">
+							<div class="timeline-content">
+								<h2>2) Регистрация</h2>
+								<p>У нас есть несколько программ: Firenjob, Ausbildung и д.р
+									Регистрация занимает пару минут для этого вам нужно документы и т.д</p>
+							</div>
+						</div>
+						<div class="timeline-container timeline-left">
+							<div class="timeline-content">
+								<h2>3) Подготовка необходимых документов</h2>
+								<p>Проверка документов для учебы или работы в Европе
+									Регистрация занимает пару минут для этого вам нужно документы и т.д</p>
+							</div>
+						</div>
+						<div class="timeline-container timeline-right">
+							<div class="timeline-content">
+								<h2>4) Собеседование</h2>
+								<p>Онлайн собеседование через зум или скайп
+									Проведение собеседования с работодателем</p>
+							</div>
+						</div>
+						<div class="timeline-container timeline-left">
+							<div class="timeline-content">
+								<h2>5) Посольство</h2>
+								<p>Собеседование в посольстве для получение визы
+									Нужен текст о том сколько минут занимает собеседование и как вы помогаете его проходить</p>
+							</div>
+						</div>
+						<div class="timeline-container timeline-right">
+							<div class="timeline-content">
+								<h2>6) Отлет в Германию</h2>
+								<p>Мы сопровождаем вас до Аэропорта
+									Приходите к нам в офис для обсуждения интересующих вас вопросов и других нюансов</p>
+							</div>
+						</div>
+						<div class="timeline-container timeline-left">
+							<div class="timeline-content">
+								<h2>7) Курирование в Германии</h2>
+								<p>Консультируем в вопросах которые возникают у студентов
+									На протяжение всего срока остаемся на связи с вами вплоть до приезда из Германии</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+
+
+			<div class="our-portfolio section" >
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-5">
+							<div class="section-heading wow fadeInLeft">
+								<h4>Выгодное  <em>предложение </em></h4>
+								<div class="line-dec"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s" >
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="loop owl-carousel">
 								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb" >
-												<img src="./View/Template/assets/images/3.png" alt="" >
-											</div>
-											<div class="down-content">
-												<h4>Подготовка необходимых документов</h4>
-												<h6>Регистрация занимает пару минут для этого вам нужно документы и т.д</h6>
-												<p>Проверка документов для учебы или работы в Европе</p>
+									<div class="card">
+
+										<div class="card__header">
+											<h2 class="card__header-h2">
+												скидка 10%
+											</h2>
+											<div class="card__img">
+												<img src="./View/Template/assets/images/logo-3.png" alt="">
 											</div>
 										</div>
-									</a>
+										<div class="card__content">
+											<h2 class="card__content-h2">
+												набор до 10 ноября
+											</h2>
+											<h3 class="card__content-h3">
+												Ferienjob
+											</h3>
+											<h4 class="card__content-h4">
+												Работа на летних каникулах
+											</h4>
+											<div class="card-price">
+												<h5 class="card__price-1">
+													24000 <u>c</u>
+												</h5>
+												<h5 class="card__price-2">
+													<strike>26400</strike> <u>c</u>
+												</h5>
+											</div>
+											<a href="https://b24-b3f31u.bitrix24.site/crm_form3/">
+												<button type="submit" class="card-btn">
+													Записаться
+												</button>
+											</a>
+										</div>
+									</div>
 								</div>
 								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb">
-												<img src="./View/Template/assets/images/4.png" alt="">
-											</div>
-											<div class="down-content">
-												<h4>Собеседование</h4>
-												<h6>Проведение собеседования с работодателем</h6>
-												<p>Онлайн собеседование через зум или скайп</p>
+									<div class="card">
+
+										<div class="card__header">
+											<h2 class="card__header-h2">
+												скидка 10%
+											</h2>
+											<div class="card__img">
+												<img src="./View/Template/assets/images/logo-3.png" alt="">
 											</div>
 										</div>
-									</a>
+										<div class="card__content">
+											<h2 class="card__content-h2">
+												набор круглый год
+											</h2>
+											<h3 class="card__content-h3">
+												Немецкий язык
+											</h3>
+											<h4 class="card__content-h4">
+												курс по уникальной методике
+											</h4>
+											<div class="card-price">
+												<h5 class="card__price-1">
+													3200 <u>c</u>
+												</h5>
+												<h5 class="card__price-2">
+													<strike>3520</strike> <u>c</u>
+												</h5>
+											</div>
+											<a href="https://b24-b3f31u.bitrix24.site/crm_form_vmm56/">
+												<button type="submit" class="card-btn">
+													Записаться
+												</button>
+											</a>
+										</div>
+									</div>
 								</div>
 								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb" >
-												<img src="./View/Template/assets/images/5.png" alt="">
-											</div>
-											<div class="down-content">
-												<h4>Посольство</h4>
-												<h6>Нужен текст о том сколько минут занимает собеседование и как вы помогаете его проходить</h6>
-												<p>Собеседование в посольстве для получение визы</p>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb" >
-												<img src="./View/Template/assets/images/6.png" alt="">
-											</div>
-											<div class="down-content">
-												<h4>Отлет в Германию</h4>
-												<h6>Приходите к нам в офис для обсуждения интересующих вас вопросов и других нюансов</h6>
-												<p>Мы сопровождаем вас до Аэропорта</p>
+									<div class="card">
+
+										<div class="card__header">
+											<h2 class="card__header-h2">
+												скидка 10%
+											</h2>
+											<div class="card__img">
+												<img src="./View/Template/assets/images/logo-3.png" alt="">
 											</div>
 										</div>
-									</a>
-								</div>
-								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb" >
-												<img src="./View/Template/assets/images/7.png" alt="">
+										<div class="card__content">
+											<h2 class="card__content-h2">
+												набор круглый год
+											</h2>
+											<h3 class="card__content-h3">
+												Ausbildung
+											</h3>
+											<h4 class="card__content-h4">
+												Учеба в Германии без ОРТ <br>
+											</h4>
+											<div class="card-price">
+												<h5 class="card__price-1">
+													50000 <u>c</u>
+												</h5>
+												<h5 class="card__price-2">
+													<strike>55000</strike> <u>c</u>
+												</h5>
 											</div>
-											<div class="down-content">
-												<h4>Курирование в Германии</h4>
-												<h6>На протяжение всего срока остаемся на связи с вами вплоть до приезда из Германии</h6>
-												<p>Консультируем в вопросах которые возникают у студентов</p>
-											</div>
+											<a href="https://b24-b3f31u.bitrix24.site/crm_form4/">
+												<button type="submit" class="card-btn">
+													Записаться
+												</button>
+											</a>
 										</div>
-									</a>
+									</div>
 								</div>
-								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb" >
-												<img src="./View/Template/assets/images/1.png" alt="">
-											</div>
-											<div class="down-content">
-												<h4>Консультация</h4>
-												<h6 >Приходите к нам в офис для обсуждения интересующих вас вопросов и других нюансов</h6>
-												<p>Общение с нашим специалистом в офисе</p>
-											</div>
-										</div>
-									</a>
-								</div>
-								<div class="item">
-									<a>
-										<div class="portfolio-item">
-											<div class="thumb" >
-												<img src="./View/Template/assets/images/2.png" alt="">
-											</div>
-											<div class="down-content">
-												<h4>Регистрация</h4>
-												<h6>Регистрация занимает пару минут для этого вам нужно документы и т.д</h6>
-												<p>У нас есть несколько программ: Firenjob, Ausbildung и д.р</p>
-											</div>
-										</div>
-									</a>
-								</div>
+
+
 							</div>
 						</div>
 					</div>
@@ -447,8 +532,8 @@
 								<div class="line-dec"></div>
 							</div>
 						</div>
-						<div class="col-lg-6 show-up wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-							<div class="blog-post">
+						<div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+							<div class="blog-post1">
 								<div class="thumb">
 									<a href="#"><img src="./View/Template/assets/images/review1.jpg" alt=""></a>
 								</div>
@@ -457,9 +542,20 @@
 									<p style = "text-align: justify; color: black;">Размышляя о своей работе понял, что мы как компания делаем большой вклад именно в образование молодёжи и это в разы важнее той работы, которую мы предоставляем в Германии🇩🇪<br>
 
 										Например:<br>
-										✅ 1. Студент едет работать на летние каникулы, работает максимальное количество часов, экономит деньги, зарабатывает 2-3 тысячи € и вкладывает в покупку автомобиля себе или своим родителям. Здорово!!! Частый сценарий.</p>
+										✅ 1. Студент едет работать на летние каникулы, работает максимальное количество часов, экономит деньги, зарабатывает 2-3 тысячи € и вкладывает в покупку автомобиля себе или своим родителям. Здорово!!! Частый сценарий.
+
+										✅ 2. Теперь рассмотрим второй сценарий, который мне нравится больше😊.
+										Студент рассматривает свою поездку как вклад в своё образование📚<br>
+										Работает максимальное количество часов, зарабатывает 2-3 тысячи €, по выходным едет в соседние города, по Schönes Wochenende Ticket (бюджетный групповой билет для поездки по всей Германии) и изучает культуру этой страны, общается с ребятами из других стран, которые тоже приезжают на лето в Германию, делает для себя заметки, размышляет над тем, что можно было бы перенять для Кыргызстана и т.д. 🙌🏻<br>
+
+										Студент из второго сценария не только зарабатывает, но приносит с собой огромный багаж знаний, идей и опыта с самой передовой страны в Европе.
+										Я верю, что второй студент сможетприменить эти навыки и идеи через 3 и через 5 лет после поездки. А заработанные деньги хватит ему и для помощи родителям, для оплаты учебы и на изучение новых знаний.
+										И течении года он сможет сконцентрироваться на учебе, не отвлекаясь на подработки💶.<br><br>
+
+										Совет студентам, которые едут через @iwex.kg в Германию🇩🇪
+										Сконцентрируйтесь не на заработке, а на том, что останется с вами навечно - в новых знаниях, опыте и на эмоциях.😎  </p>
 									<span class="author"><img src="./View/Template/assets/images/ceoPicture.png" alt="">Нурдин Шейшенов</span>
-									<div class="border-first-button"><a href="https://www.facebook.com/photo/?fbid=2842764099200936&set=ecnf.100063774510846">Узнайте больше</a></div>
+									<div class="border-first-button"><a href="https://www.facebook.com/iwex.kg" target="_blank">Узнайте больше</a></div>
 								</div>
 							</div>
 						</div>
@@ -539,7 +635,7 @@
 									<div class="col-lg-7">
 										<div class="fill-form">
 											<div class="row">
-											<div class="col-lg-4">
+												<div class="col-lg-4">
 													<div class="info-post">
 														<div class="icon">
 															<img src="./View/Template/assets/images/location-icon.png" alt="">
@@ -567,7 +663,7 @@
 														</div>
 													</div>
 												</div>
-												
+
 												<div class="col-lg-6">
 													<fieldset>
 														<input type="name" name="name" id="name" placeholder="Имя" autocomplete="on" required>

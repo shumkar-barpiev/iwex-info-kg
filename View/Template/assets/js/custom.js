@@ -20,18 +20,18 @@
       center: true,
       items:1,
       loop:true,
-      autoplay: true,
+      autoplay: false,
       nav: true,
       margin:0,
       responsive:{ 
           1200:{
-              items:5
-          },
-          992:{
               items:3
           },
+          992:{
+              items:2
+          },
           760:{
-            items:2
+            items:1
         }
       }
   });
