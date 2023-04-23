@@ -29,10 +29,10 @@
 						</div>
 						<div class="col-lg-4 col-sm-4 col-5">
 							<ul class="social-media">
-								<li><a href="https://www.facebook.com/iwex.kg" target="_blank"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="https://www.instagram.com/iwex.kg/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-								<li><a href="https://t.me/iwadmin" target="_blank"><i  class="fa fa-telegram "></i></a></li>
-								<li><a href="https://www.youtube.com/channel/UCOhw2YR7jV4HmdRM50CnxJQ" target="_blank"><i class="fa fa-youtube" ></i></a></li>
+								<li class="facebook"><a href="https://www.facebook.com/iwex.kg" target="_blank"><i class="fa fa-facebook"></i></a></li>
+								<li class="instagram"><a href="https://www.instagram.com/iwex.kg/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+								<li class="telegram"><a href="https://t.me/iwadmin" target="_blank"><i  class="fa fa-telegram "></i></a></li>
+								<li class="youtube" ><a href="https://www.youtube.com/channel/UCOhw2YR7jV4HmdRM50CnxJQ" target="_blank"><i class="fa fa-youtube" ></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -80,7 +80,7 @@
 
 
 
-									<li class="scroll-to-section"><div class="border-first-button"><a href="#top">Go Top</a></div></li>
+									<li class="scroll-to-section"><div class="border-first-button"><a href="#top">Наверх</a></div></li>
 								</ul>
 								<a class='menu-trigger'>
 									<span>Menu</span>
@@ -157,7 +157,7 @@
 										<div class="col-lg-12">
 											<div class="post-item">
 												<div class="thumb">
-													<a href="#"><img src="./View/Template/assets/images/ceoPicture.png" alt="ceo"></a>
+													<a ><img src="./View/Template/assets/images/ceoPicture.png" alt="ceo"></a>
 												</div>
 												<div class="right-content">
 													<span class="category">Основатель компании и Генеральный директор</span>
@@ -401,7 +401,7 @@
 				</div>
 				<div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s" >
 					<div class="row">
-						<div class="col-lg-12">
+						<div class="col-lg-12" >
 							<div class="loop owl-carousel">
 								<div class="item">
 									<div class="card">

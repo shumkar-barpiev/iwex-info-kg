@@ -1558,8 +1558,8 @@ Portfolio
 }
 
 .our-portfolio .container-fluid {
-  margin: auto;
   width: 80%;
+  margin:auto;
   position: relative;
   z-index: 2;
 }
@@ -1575,7 +1575,7 @@ Portfolio
 
 .our-portfolio .item {
   position: relative;
-  z-index: 222;
+  z-index: 2;
 }
 
 .portfolio-item {
@@ -2015,7 +2015,7 @@ card
 */
 
 .card {
-  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.35);
+  /*box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.35);*/
   width: 360px;
   border-radius: 10px;
 }
@@ -2450,5 +2450,167 @@ responsive
     border-radius: 23px;
     padding: 25px 15px;
   }
+  .social-media .youtube{
+    display: none;
+  }
 
+}
+
+
+@media (max-width: 350px) {
+  .header-area .main-nav .logo h4 {
+    font-size: 25px;
+  }
+  .header-area .main-nav .logo h4 img {
+    max-width: 25px;
+    margin-left: 3px;
+  }
+  .main-banner .info-stat {
+    margin-bottom: 10px;
+  }
+  .main-banner {
+    text-align: center;
+    padding: 200px 0px 25px 0px;
+  }
+
+  .main-banner p {
+    font-size: 13px;
+    text-align: justify;
+  }
+  .about .post-item .right-content .category {
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: justify;
+  }
+  .about .post-item .right-content p {
+    display: none;
+  }
+  .main-banner a {
+    font-size: 10px;
+    text-align: center;
+  }
+  .service-item {
+    text-align: center;
+    padding: 25px;
+  }
+  .service-item .icon {
+    float: none;
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+  .service-item .right-content {
+    display: inline-block;
+  }
+  .services .naccs .menu div .thumb {
+    padding: 3px;
+  }
+  .services .icon img {
+    margin: 0px;
+  }
+  .services ul.nacc li.active {
+    padding: 35px;
+  }
+  .services .naccs .menu div  {
+    font-size: 0px;
+  }
+  .services ul.nacc li .right-image img {
+    float: none;
+  }
+  .our-portfolio .section-heading,
+  .about-us .section-heading,
+  .about-us .about-item,
+  .about-us p,
+  .about-us .main-green-button {
+    text-align: center;
+  }
+  .our-portfolio .section-heading .line-dec {
+    margin: 0 auto;
+  }
+  .our-services .section-heading {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .free-quote form input {
+    margin-left: 0px;
+    padding: 0px 25px;
+  }
+  .free-quote form button {
+    margin-left: 0px;
+    border-bottom-left-radius: 35px;
+    border-top-right-radius: 0px;
+  }
+  .blog-posts {
+    margin-left: 0px;
+    margin-top: 25px;
+  }
+  .post-item {
+    margin-bottom: 25px;
+  }
+  .post-item .thumb img {
+    max-width: 120px;
+  }
+
+  .portfolio-item .thumb {
+    padding: 160px;
+  }
+  .portfolio-item .down-content h4 {
+    font-size: 12px;
+    text-align: center;
+    font-weight: 650;
+    color: #2a2a2a;
+    margin-bottom: 8px;
+    transition: all .3s;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .portfolio-item .down-content p {
+    font-size: 8px;
+    color: #afafaf;
+    transition: all .3s;
+    text-align:center;
+    padding-left: 5px;
+    padding-right: 5px;
+
+  }
+  .portfolio-item .down-content h6 {
+    font-size: 10px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 5px;
+    transition: all .3s;
+  }
+  .about-us .about-item {
+    margin-top: 13px;
+  }
+  form#contact {
+    padding: 25px;
+  }
+
+  .fill-form .icon a {
+    margin-top: 12px;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 480;
+    color: #2a2a2a;
+    transition: all .3s;
+    width: 100%;
+  }
+  .fill-form .icon {
+    text-align: center;
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.1);
+    border-radius: 23px;
+    padding: 22px 12px;
+  }
+  .social-media .youtube{
+    display: none;
+  }
+  .social-media .telegram{
+    display: none;
+  }
+
+  .info li a i{
+    display: none;
+  }
 }
